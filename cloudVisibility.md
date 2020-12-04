@@ -1,6 +1,5 @@
 # Cloud Visibility
 
-
 ## Public, Private and Hybrid Clouds
 
 ### Public Cloud
