@@ -1,9 +1,12 @@
 # Cloud Service and Cloud Computing
 
 1. Cloud Service Models
+2. Cloud Visibilities
 
 ---
 ---
+
+With Operating Expenses, the user is responsible for the computing resources that are used  
 
 
 ## Cloud Service Models
