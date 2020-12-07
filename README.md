@@ -1,5 +1,4 @@
-# Cloud Service and Cloud Computing
-
+# Table of Contents
 1. Cloud Service Models
 2. Cloud Visibilities
 
